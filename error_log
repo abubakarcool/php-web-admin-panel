@@ -1,0 +1,8 @@
+[05-Aug-2023 19:26:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u434392900_maxdb'@'localhost' (using password: YES) in /home/aussiedu/public_html/coresystem/init.php on line 2
+[05-Aug-2023 19:59:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u434392900_maxdb'@'localhost' (using password: YES) in /home/aussiedu/public_html/coresystem/init.php on line 2
+[05-Aug-2023 20:32:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u434392900_maxdb'@'localhost' (using password: YES) in /home/aussiedu/public_html/coresystem/init.php on line 2
+[05-Aug-2023 20:32:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u434392900_maxdb'@'localhost' (using password: YES) in /home/aussiedu/public_html/coresystem/init.php on line 2
+[05-Aug-2023 20:36:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'aussiedu_aussiedu_username'@'localhost' to database 'aussiedu_u434392900_maxdb' in /home/aussiedu/public_html/coresystem/init.php on line 2
+[05-Aug-2023 20:38:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'aussiedu_aussiedu_username'@'localhost' to database 'aussiedu_u434392900_maxdb' in /home/aussiedu/public_html/coresystem/init.php on line 2
+[05-Aug-2023 20:41:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'aussiedu_aussiedu_username'@'localhost' to database 'aussiedu_u434392900_maxdb' in /home/aussiedu/public_html/coresystem/init.php on line 2
+[05-Aug-2023 21:37:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u434392900_maxdb'@'localhost' (using password: YES) in /home/aussiedu/public_html/cronjob.php on line 2

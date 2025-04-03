@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:white;
+        color: black;
+	padding-top: 50px;
+}
+hr.style-two {
+border: 0;
+height: 0;
+border-top: 1px solid rgba(0, 0, 0, 0.1);
+border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+.product_view .modal-dialog{max-width: 800px; width: 100%;}
+        .pre-cost{text-decoration: line-through; color: #a5a5a5;}
+        .space-ten{padding: 10px 0;}
+/* start of css of topnavbar */
+
+/* end of css of content */
+.navbar, .dropdown-menu{
+background:#000000;
+}
+.navbar:hover, .dropdown-menu:hover{
+  color: red;
+  background-color:#000000;
+}
+.dropdown-menu>li>a, .navbar-toggle{
+ color:grey;
+}
+ .dropdown-menu>li>a:hover{
+ color:white;
+ background-color:black;
+}
+li.dropdown:hover > .dropdown-menu {
+    display: block;
+}
+/* end of css of topnavbar */
+/* start css slider*/
+#first-slider .carousel .item {
+  min-height: 425px; 
+  height: 100%;
+  width:100%;
+}
+#first-slider .slide1 {
+    background-image: url(https://apifirstapp.000webhostapp.com/Ummerkodi/images/l1.jpg);
+      background-size: cover;
+    background-repeat: no-repeat;
+}
+/*end of css of slider*/
+.img-thumb{
+	width:auto;
+	height:200px;
+	}
+img.details{
+    width:33%;
+	margin:15px auto;
+    }
+/* css of lsb and rsb*/
+#cart_widget td,#recent_widget{
+	font-size:12px;
+}
+input.price-range{
+	width:55px;
+}
+/* css of lsb and rsb*/
+/* css of footer*/
+footer { background-color:#333; min-height:0px; font-family: 'Open Sans', sans-serif; }
+ .copyright { min-height:40px; background-color:#000000;}
+ .copyright p { text-align:center; color:#FFF; padding:10px 0; margin-bottom:0px;}
+ .heading7 { font-size:21px; font-weight:700; color:#d9d6d6; margin-bottom:22px;}
+ .post p { font-size:12px; color:#FFF; line-height:20px;}
+ .post p span { display:block; color:#8f8f8f;}

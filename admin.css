@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color:white;
+	padding-top:50px;
+}
+hr.style-two {
+border: 0;
+height: 0;
+border-top: 1px solid rgba(0, 0, 0, 0.1);
+border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+/* admin brand table css start*/
+.table-auto{
+	width:auto;
+	margin:0 auto;
+	}
+/* admin brand table css ends */
+/* start of css of  image in products*/
+.saved-image img{
+	width:200px;
+	height:auto;
+	}
+/* start of css of  image in products*/
+/* start of css of topnavbar */
+.navbar, .dropdown-menu{
+background:black;
+}
+.navbar:hover, .dropdown-menu:hover{
+  color: red;
+  background-color:black;
+}
+.dropdown-menu>li>a, .navbar-toggle{
+ color:grey;
+}
+ .dropdown-menu>li>a:hover{
+ color:white;
+ background-color:black;
+}
+li.dropdown:hover > .dropdown-menu {
+    display: block;
+}
+/* end of css of topnavbar */
+/* start of css of login form */
+#login-form{
+width:50%;
+height:60%;
+border:2px solid #000;
+border-radius:15px;
+box-shadow:7px 7px 15px rgba(0,0,0,0,6);
+margin:8% auto;
+padding:15px;
+background-color:#fff;	
+}*/
+/* start of css of  footer*/
+.copyright { min-height:40px;width:1oo%; background-color:#000000;}
+ .copyright p { text-align:center; color:#FFF; padding:10px 0; margin-bottom:0px;}
+ 
