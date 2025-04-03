@@ -3,7 +3,6 @@
 This is a PHP-based web application that includes a full frontend and backend structure. It features an admin dashboard, Bootstrap-based layout, reusable components, and SQL database setup.
 
 ---
----
 
 ## ⚙️ Technologies Used
 
