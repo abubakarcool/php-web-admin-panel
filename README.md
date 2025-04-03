@@ -3,35 +3,6 @@
 This is a PHP-based web application that includes a full frontend and backend structure. It features an admin dashboard, Bootstrap-based layout, reusable components, and SQL database setup.
 
 ---
-
-## 📁 Folder Structure
-project-root/
-│
-├── admin/                 # Admin dashboard files (login, users, etc.)
-├── coresystem/            # Core system scripts like init.php
-├── css/                   # Main CSS files (custom styles)
-├── js/                    # JavaScript files for frontend
-├── scss/                  # SCSS source files
-├── includes/              # Reusable frontend components (header, sidebar, etc.)
-├── mail/                  # Contact form handler
-├── sql_database/          # SQL dump file for the database
-├── vendor/                # Bootstrap, jQuery, Font Awesome, etc.
-├── img/                   # Image assets (logo, backgrounds)
-├── fonts/                 # Font files (glyphicons, etc.)
-│
-├── index.php              # Main entry point of the website
-├── config.php             # Configuration file (DB credentials, settings)
-├── cronjob.php            # Scheduled script (cron jobs)
-├── wizard.php             # Wizard-based form or flow
-├── wizardwithhash.php     # Wizard with hash-based tracking
-├── quartz.php             # Quartz module (purpose-specific)
-├── projcss.css            # Project-specific CSS
-├── projs.js               # Project-specific JS
-├── header.php             # Shared header layout
-├── indexold.php           # Previous version of homepage
-├── admin.css              # Admin-specific CSS
-└── error_log              # (Optional) Error logs (should be ignored)
-
 ---
 
 ## ⚙️ Technologies Used
@@ -63,3 +34,34 @@ project-root/
 - You may want to refactor it using MVC or Laravel if upgrading.
 
 ---
+
+
+## 📁 Folder Structure
+```bash
+project-root/
+│
+├── admin/                 # Admin dashboard files (login, users, etc.)
+├── coresystem/            # Core system scripts like init.php
+├── css/                   # Main CSS files (custom styles)
+├── js/                    # JavaScript files for frontend
+├── scss/                  # SCSS source files
+├── includes/              # Reusable frontend components (header, sidebar, etc.)
+├── mail/                  # Contact form handler
+├── sql_database/          # SQL dump file for the database
+├── vendor/                # Bootstrap, jQuery, Font Awesome, etc.
+├── img/                   # Image assets (logo, backgrounds)
+├── fonts/                 # Font files (glyphicons, etc.)
+│
+├── index.php              # Main entry point of the website
+├── config.php             # Configuration file (DB credentials, settings)
+├── cronjob.php            # Scheduled script (cron jobs)
+├── wizard.php             # Wizard-based form or flow
+├── wizardwithhash.php     # Wizard with hash-based tracking
+├── quartz.php             # Quartz module (purpose-specific)
+├── projcss.css            # Project-specific CSS
+├── projs.js               # Project-specific JS
+├── header.php             # Shared header layout
+├── indexold.php           # Previous version of homepage
+├── admin.css              # Admin-specific CSS
+└── error_log              # (Optional) Error logs (should be ignored)
+
