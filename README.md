@@ -29,7 +29,7 @@ This is a PHP-based web application that includes a full frontend and backend st
 
 ## 📬 Notes
 
-- This project was created 3 years ago — file structure and methods reflect traditional PHP development styles.
+- This project was created 5 years ago — file structure and methods reflect traditional PHP development styles.
 - You may want to refactor it using MVC or Laravel if upgrading.
 
 ---
